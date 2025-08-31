@@ -16,3 +16,6 @@
 - Python >= 3.8
 - PyTorch >= 1.9
 
+## run
+python 
+

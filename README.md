@@ -17,5 +17,5 @@
 - PyTorch >= 1.9
 
 ## run
-python 
+python poem.py
 
